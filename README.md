@@ -53,15 +53,8 @@ sudo dnf install mpv
 
 ### Запуск
 
-1. Скачайте последнюю версию из [Releases](https://github.com/YOUR_USERNAME/anilinux/releases)
-2. Распакуйте архив:
-
-```bash
-tar -xf AniLinux-v1.0.0-linux-x86_64.tar.gz
-cd AniLinux
-```
-
-3. Запустите:
+1. Скачайте последнюю версию из [Releases](https://github.com/NikRen2006/Anilinux/releases)
+2. Запустите:
 
 ```bash
 ./AniLinux
