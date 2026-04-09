@@ -132,13 +132,6 @@ AniLinux не хранит и не распространяет видеокон
 ## 🙏 Благодарности
 
 - [Shikimori](https://shikimori.one) — база данных аниме
-- [Animevost](https://animevost.org) — источник видео
 - [mpv](https://mpv.io/) — видеоплеер
 - [PyQt6](https://www.riverbankcomputing.com/software/pyqt/) — GUI фреймворк
 - [Arch Linux](https://archlinux.org) — вдохновение для цветовой схемы
-
----
-
-<p align="center">
-  Сделано с ❤️ для Linux-сообщества
-</p>
